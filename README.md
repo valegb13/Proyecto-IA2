@@ -2,4 +2,4 @@
 Reconocimiento facial
 
 
-![Image text]([(https://github.com/valegb13/Proyecto-IA2/blob/main/Banner-IA.gif)https://github.com/valegb13/Proyecto-IA2/blob/main/Banner-IA.gif)])
+![Image text]([(https://github.com/valegb13/Proyecto-IA2/blob/main/Banner-IA.gif)https://github.com/valegb13/Proyecto-IA2/blob/main/Banner-IA.gif])
