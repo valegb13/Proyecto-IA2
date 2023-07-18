@@ -1,5 +1,5 @@
-# Proyecto-IA2
-Reconocimiento facial
-
+# Reconocimiento facial
 
 ![Image text](/Banner-IA.gif)
+
+## Valentina Galvis, Ivan Dario Cardenas, Jose Alejandro Carrillo
