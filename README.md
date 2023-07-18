@@ -7,5 +7,5 @@
 ## Dataset: https://drive.google.com/drive/folders/1AduXeLvxzM4mxHAyvQOm-HQY7BfEnLWo?usp=sharing
 ## Modelos:
 ## Enlaces:
-     -Video:
-     -Repositorio:   
+     - Video:
+     - Repositorio:   
